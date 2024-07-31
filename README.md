@@ -1,6 +1,6 @@
 # flutter_dev_book_inheritedwidget
 
-A new Flutter project.
+書籍「Flutter実践開発」第9章の４節の内容に基づくものです。
 
 ## Getting Started
 
